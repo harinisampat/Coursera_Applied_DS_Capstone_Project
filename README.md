@@ -1,1 +1,3 @@
 # Coursera_Applied_DS_Capstone_Project
+
+The commercial space age is revolutionizing the way we think about space travel, making it more accessible and affordable. Companies like SpaceX have led the charge with groundbreaking innovations such as reusable rockets, significantly reducing the cost of launches. This project explores the role of data science in predicting the reusability of Falcon 9’s first stage and estimating the cost of rocket launches. This project replicates a real-world scenario where a fictional company, Space Y, aims to compete with SpaceX. The analysis includes data visualization, dashboard creation, and predictive modeling to understand the factors influencing rocket reusability and launch costs.
